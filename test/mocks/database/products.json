@@ -1,0 +1,26 @@
+[
+  {
+    "title": "test aja!!!",
+    "sku": "DZM2JQZE",
+    "image": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png",
+    "price": "14.00",
+    "description": "",
+    "stock": "95"
+  },
+  {
+    "title": "test3333",
+    "sku": "YUIIIP4W",
+    "image": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png",
+    "price": "20.00",
+    "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+    "stock": "0"
+  },
+  {
+    "title": "TEST 123",
+    "sku": "O5IF1NTA",
+    "image": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png",
+    "price": "111.00",
+    "description": "",
+    "stock": "0"
+  }
+]

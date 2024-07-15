@@ -1,0 +1,31 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "lab -c -t 95 -v -I"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@hapi/code": "^9.0.3",
+    "@hapi/glue": "^9.0.1",
+    "@hapi/hapi": "^21.3.10",
+    "@hapi/joi": "^17.1.1",
+    "@hapi/lab": "^25.2.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "lodash": "^4.17.21",
+    "pg": "^8.12.0",
+    "sinon": "^18.0.0"
+  },
+  "devDependencies": {
+    "@hapi/eslint-config-hapi": "^13.0.2",
+    "eslint": "^9.7.0",
+    "eslint-plugin-hapi": "^4.1.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "env": {
+      "node": true,
+      "es2021": true
+  },
+  "extends": [
+      "eslint:recommended"
+  ],
+  "plugins": [
+      "hapi"
+  ],
+  "parserOptions": {
+      "ecmaVersion": 12,
+      "sourceType": "module"
+  },
+  "rules": {
+      "indent": ["error", 4],
+      "hapi/hapi-capitalized-comments": ["off"],
+      "no-console": "off"
+  }
+}

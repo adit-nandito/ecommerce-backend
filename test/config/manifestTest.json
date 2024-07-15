@@ -1,0 +1,18 @@
+{
+  "server": {
+    "host": "localhost",
+    "port": 0
+  },
+  "register": {
+    "plugins": [
+      {
+        "plugin": "../../server/api/product.js",
+        "options": { "baseUrl": "/api/product" }
+      },
+      {
+        "plugin": "../../server/api/transaction.js",
+        "options": { "baseUrl": "/api/transaction" }
+      }
+    ]
+  }
+}
